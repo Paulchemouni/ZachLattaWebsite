@@ -1,0 +1,89 @@
+html, body {
+    height: 100%;
+    cursor: url(media/images/rsz_redcursor.png) 16 16, auto;
+}
+
+body {
+    color: white;
+    background-color: #222222;
+    margin: 0;
+}
+
+p {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: justify;
+    font-family: "Mozilla Text", sans-serif;
+    font-weight: 500;
+}
+
+.header {
+    margin: 0;
+
+    background-color: #911111;
+    padding: 1rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 4rem;
+    height: 4rem;
+}
+
+.header h1 {
+    flex: 1;
+    text-align: left;
+    font-family: "Mozilla Headline", sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    margin: 0;
+}
+
+.header-photo {
+    width: 4rem;
+    height: 4rem;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 1rem;
+    margin-right: 1rem;
+    margin-left: 0.2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    align-self: center;
+}
+
+.hi {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: left;
+    margin-top: 1rem;
+}
+
+.hypertext {
+    color: #F7A1A1;
+    text-decoration: underline;
+}
+
+.hypertext:hover {
+        color: #FBD0D0;
+    }
+
+.social {
+    height: 3rem;
+    width: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 0.2rem;
+    color: white
+}
+
+.social:hover {
+    color: #087FB8;
+    background-color: white;
+    border-radius: 0.25rem;
+}
+
+.title_hypertext {
+    color: #ffffff;
+    text-decoration: none;
+}
