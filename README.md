@@ -1,5 +1,5 @@
 # www.zachlatta.com redesign
-A little redesign of the [zachlatta.com] website.
+A little redesign of the [zachlatta.com](zachlatta.com) website.
 Doing my best with my newbie skills 🫠
 I implemented a linkedin button with color changing when hovering, and redirecting to his webpage when clicked.
 Fonts were changed, a header was added, and the email is now a *mailto* link.
