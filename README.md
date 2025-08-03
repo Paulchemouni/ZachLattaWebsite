@@ -10,4 +10,4 @@ This is for me the occasion to discover more about web programming and Git.</br>
 - The email is now a *mailto* link</br>
 - The hypertext links change color when hovered, following the red color palette of the webpage.</br>
 
-<img width="1582" height="396" alt="image" src="https://github.com/user-attachments/assets/0cd9545b-996c-434e-b65c-fdeb65545f2f" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/0cd9545b-996c-434e-b65c-fdeb65545f2f" />
