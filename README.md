@@ -1,4 +1,4 @@
-# ZachLattaWebsite
+# Zach Latta Website
 A little redesign of zachlatta.com.
 Doing my best with my newbie skills 🫠
 I implemented a linkedin button with color changing when hovering, and redirecting to his webpage when clicked.
