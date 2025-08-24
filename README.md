@@ -1,5 +1,5 @@
 # www.zachlatta.com redesign
-A little redesign of the [zachlatta.com](zachlatta.com) website.
+A little redesign of the [zachlatta.com](zachlatta.com) website, done for the [Summer of Making](https://summer.hackclub.com).
 Doing my best with my newbie skills 🫠 </br>
 This is for me the occasion to discover more about web programming and Git.</br>
 
